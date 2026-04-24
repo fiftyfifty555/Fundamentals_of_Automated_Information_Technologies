@@ -1,0 +1,2 @@
+# Fundamentals_of_Automated_Information_Technologies
+Database Design for an Online Educational Platform
